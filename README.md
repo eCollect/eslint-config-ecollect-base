@@ -2,7 +2,7 @@
 
 This package provides eCollect's base JS .eslintrc as an extensible shared config.
 
-It is heavily based on [Airbnb's base package](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base) with some rules extended and changed to match our style guides.
+It is heavily based on [Airbnb's base package](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base) with some rules extended and changed to match our eCollect's own guides.
 
 ## Usage
 

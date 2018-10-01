@@ -4,11 +4,10 @@ module.exports = {
 		node: true
 	},
 	parserOptions: {
-		ecmaVersion: 8,
+		ecmaVersion: 2018,
 		sourceType: 'script',
 		ecmaFeatures: {
 			modules: false,
-			experimentalObjectRestSpread: true
 		}
 	},
 	rules: {

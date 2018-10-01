@@ -11,6 +11,6 @@ Our default export contains all of our ESLint rules, including ECMAScript 6+. It
 1. Install the correct versions of each package, which are listed by the command:
 
   ```sh
-  npx install-peerdeps --dev eslint-config-airbnb-base
+  npx install-peerdeps --dev eslint-config-ecollect-base
   ```
 2. Add `"extends": "ecollect-base` to your .eslintrc.

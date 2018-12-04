@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ecollect-base",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "eCollect's base JS ESlint config",
   "main": "index.js",
   "scripts": {},

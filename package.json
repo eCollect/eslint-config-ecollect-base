@@ -15,6 +15,8 @@
   },
   "keywords": [
     "eslint",
+    "ecollect",
+    "node",
     "eslintconfig",
     "config",
     "airbnb",
@@ -25,13 +27,12 @@
     "es2017",
     "es2018",
     "ecollect"
-  ],  
+  ],
   "homepage": "https://github.com/eCollect/eslint-config-ecollect-base#readme",
   "dependencies": {
-    "eslint-config-airbnb-base": "^13.1.0"
+    "confusing-browser-globals": "^1.0.5"
   },
   "peerDependencies": {
-    "eslint": "^5.9.0",
-    "eslint-plugin-import": "^2.14.0"
+    "eslint": "^5.12.0"
   }
 }

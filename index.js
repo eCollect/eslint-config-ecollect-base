@@ -3,6 +3,7 @@
 module.exports = {
 	extends: [
 		'./rules/best-practices',
+		'./rules/strict',
 		'./rules/errors',
 		'./rules/node',
 		'./rules/style',

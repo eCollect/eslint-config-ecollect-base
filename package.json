@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ecollect-base",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "eCollect's base JS ESlint config",
   "main": "index.js",
   "scripts": {},
@@ -8,11 +8,21 @@
     "type": "git",
     "url": "git+https://github.com/eCollect/eslint-config-ecollect-base.git"
   },
-  "author": "eCollect AG.",
+  "engines": {
+    "node": ">= 8"
+  },
+  "author": "eCollect AG",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/eCollect/eslint-config-ecollect-base/issues"
   },
+  "contributors": [
+    {
+      "name": "Dimitar Nanov",
+      "email": "dimitar@nanov.io",
+      "url": "https://nanov.io"
+    }
+  ],
   "keywords": [
     "eslint",
     "ecollect",

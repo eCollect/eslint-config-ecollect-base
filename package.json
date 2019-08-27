@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ecollect-base",
-  "version": "0.1.2-beta.1",
+  "version": "0.1.2",
   "description": "eCollect's base JS ESlint config",
   "main": "index.js",
   "scripts": {},
@@ -40,7 +40,7 @@
   ],
   "homepage": "https://github.com/eCollect/eslint-config-ecollect-base#readme",
   "dependencies": {
-    "confusing-browser-globals": "^1.0.5"
+    "confusing-browser-globals": "^1.0.8"
   },
   "peerDependencies": {
     "eslint": "^6.2.2"

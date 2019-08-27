@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ecollect-base",
-  "version": "0.1.1",
+  "version": "0.1.2-beta.1",
   "description": "eCollect's base JS ESlint config",
   "main": "index.js",
   "scripts": {},
@@ -43,6 +43,6 @@
     "confusing-browser-globals": "^1.0.5"
   },
   "peerDependencies": {
-    "eslint": "^5.12.0"
+    "eslint": "^6.2.2"
   }
 }
